@@ -1,7 +1,7 @@
 
 # BWF - Usama Mahtab
 
-# Set and Intersection between two sets
+# Set and Intersection between two or more sets
 A = {5, 6, 8, 12, 14, 15}
 B = {2, 4, 6, 10, 15, 18}
 C = {1, 4, 8, 15, 18, 21}
@@ -11,7 +11,7 @@ print(common)
 common = common.intersection(C)
 print(common)
 
-# Missing and additional values in two sets
+# Different Operation on sets
 A = {5, 6, 8, 12, 14, 15}
 B = {2, 4, 6, 10, 15, 18}
 
