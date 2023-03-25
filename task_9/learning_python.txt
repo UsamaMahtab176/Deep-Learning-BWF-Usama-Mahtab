@@ -1,0 +1,4 @@
+
+In python, you can Use Lists and Tuples to store related data.
+In python, you can Use Dictionaries in to store data in key-value pairs.
+In python, you can use Classes and Objects to achieve Encapsulation and Abstraction.
