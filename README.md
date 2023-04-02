@@ -4,6 +4,6 @@ This Repository of Github Contains completed task given in BWF-(ByteWise Fellowh
 
 Usama Mahtab
 email: usama.mahtab1762001@gmail.com
-Linkedin: https://www.linkedin.com/in/usama-mahtab-a38017228/
+LinkedIn: https://www.linkedin.com/in/usama-mahtab-a38017228/
 Github: https://github.com/UsamaMahtab176
-Conatct(whatsapp) : +923115567124
+Contact(whatsapp) : +923115567124
