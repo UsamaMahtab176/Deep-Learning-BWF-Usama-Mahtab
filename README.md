@@ -1,6 +1,6 @@
 # Deep-Learning-BWF-Usama-Mahtab
 
-This Repository of Github Contains completed task given in BWF-(ByteWise Fellowhip)
+This Repository of Github Contains completed task given in BWF-(ByteWise Fellowship)
 
 Usama Mahtab
 email: usama.mahtab1762001@gmail.com
